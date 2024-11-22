@@ -1,0 +1,5 @@
+python-telegram-bot>=20.0
+aiohttp>=3.8.5
+pillow>=10.0.0
+img2pdf>=0.4.4
+pdf2image>=1.16.3
